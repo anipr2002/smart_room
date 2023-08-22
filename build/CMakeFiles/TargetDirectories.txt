@@ -1,0 +1,2 @@
+/home/apr2k2/libfreenect/wrappers/python/build/CMakeFiles/edit_cache.dir
+/home/apr2k2/libfreenect/wrappers/python/build/CMakeFiles/rebuild_cache.dir
